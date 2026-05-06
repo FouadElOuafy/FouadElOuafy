@@ -27,10 +27,12 @@ I love building projects that combine ML models with modern web interfaces.
 
 ## Featured Projects
 
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [spam-detector](https://github.com/FouadElOuafy/spam-detector) | ML-powered spam detection app | Python · Flask · scikit-learn · React |
-| [gestion-personnel](https://github.com/FouadElOuafy/gestion-personnel) | HR management platform with auth | React · Express.js · JWT |
+| [gestion-personnel](https://github.com/FouadElOuafy/gestion-personnel) | HR management platform with auth | React · Express.js · MongoDB · JWT |
+| [detection-consultation](https://github.com/FouadElOuafy/detection-consultation) | Consultation legitimacy detection platform | Python · Flask · SQLite · React · JWT |
 
 ---
 
