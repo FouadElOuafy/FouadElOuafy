@@ -9,7 +9,7 @@
 ## About me
 
 Passionate about Machine Learning, Web Development, and Cybersecurity.
-Currently pursuing a Master's in Big Data & Intelligent Systems.
+Currently pursuing a Master's degree in Big Data & Intelligent Systems.
 I love building projects that combine ML models with modern web interfaces.
 
 ---
