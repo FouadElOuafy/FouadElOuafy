@@ -33,6 +33,7 @@ I love building projects that combine ML models with modern web interfaces.
 | [gestion-personnel](https://github.com/FouadElOuafy/gestion-personnel) | HR management platform with auth | React · Express.js · MongoDB · JWT |
 | [detection-consultation](https://github.com/FouadElOuafy/detection-consultation) | Consultation legitimacy detection platform | Python · Flask · SQLite · React · JWT |
 | [air-quality-prediction](https://github.com/FouadElOuafy/air-quality-morocco) | Air quality prediction (PM2.5) in Moroccan cities | Python · Flask · scikit-learn · React · OpenWeatherMap |
+| [hotel-finder-fes](https://github.com/FouadElOuafy/hotel-finder-fes) | Geolocation app for hotels in Fès with routing | Neo4j · Flask · React · OpenStreetMap · OSRM |
 
 ---
 
