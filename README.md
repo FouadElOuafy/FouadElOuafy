@@ -34,6 +34,7 @@ I love building projects that combine ML models with modern web interfaces.
 | [detection-consultation](https://github.com/FouadElOuafy/detection-consultation) | Consultation legitimacy detection platform | Python · Flask · SQLite · React · JWT |
 | [air-quality-prediction](https://github.com/FouadElOuafy/air-quality-morocco) | Air quality prediction (PM2.5) in Moroccan cities | Python · Flask · scikit-learn · React · OpenWeatherMap |
 | [hotel-finder-fes](https://github.com/FouadElOuafy/hotel-finder-fes) | Geolocation app for hotels in Fès with routing | Neo4j · Flask · React · OpenStreetMap · OSRM |
+| [devmentor-ai](https://github.com/FouadElOuafy/CodeAlpha_ChatbotFAQ) | Intelligent NLP FAQ chatbot for full-stack learning with TF-IDF, cosine similarity, FastAPI, and React | Python · FastAPI · React · scikit-learn · NLTK · NLP · TF-IDF |
 
 ---
 
