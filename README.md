@@ -35,6 +35,7 @@ I love building projects that combine ML models with modern web interfaces.
 | [air-quality-prediction](https://github.com/FouadElOuafy/air-quality-morocco) | Air quality prediction (PM2.5) in Moroccan cities | Python · Flask · scikit-learn · React · OpenWeatherMap |
 | [hotel-finder-fes](https://github.com/FouadElOuafy/hotel-finder-fes) | Geolocation app for hotels in Fès with routing | Neo4j · Flask · React · OpenStreetMap · OSRM |
 | [devmentor-ai](https://github.com/FouadElOuafy/CodeAlpha_ChatbotFAQ) | Intelligent NLP FAQ chatbot for full-stack learning with TF-IDF, cosine similarity, FastAPI, and React | Python · FastAPI · React · scikit-learn · NLTK · NLP · TF-IDF |
+| [ecommerce-sales-dashboard-powerbi](https://github.com/FouadElOuafy/ecommerce-sales-dashboard-powerbi) | E-commerce sales analysis & RFM customer segmentation dashboard (100k+ orders) | Power BI · DAX · Power Query · Data Modeling |
 
 ---
 
