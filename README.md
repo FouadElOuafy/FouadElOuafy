@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fouad%20El%20Ouafy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20and%20Intelligent%20Systems%20-%20Master%20Student&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fouad%20EL%20OUAFY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20and%20Intelligent%20Systems%20-%20Master%20Student&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
