@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fouad%20El%20Ouafy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20Intelligent%20Systems%20%E2%80%94%20Master%20Student&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fouad%20El%20Ouafy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20and%20Intelligent%20Systems%20-%20Master%20Student&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science;Full-Stack+Web+Development+(React+%2B+Flask%2FFastAPI);Blockchain+%26+Smart+Contracts+(Solidity);Looking+for+a+PFE+internship+in+AI+%2F+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Machine+Learning+and+Data+Science;Full-Stack+Web+Development+(React+%2B+Flask+or+FastAPI);Blockchain+and+Smart+Contracts+(Solidity);Looking+for+a+PFE+internship+in+AI+and+Data" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,23 +31,64 @@ I am pursuing a Master's degree in Big Data & Intelligent Systems, and I love bu
 
 ## 🛠 Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,c,js,solidity&theme=dark" alt="languages"/><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,flask,fastapi,express,laravel&theme=dark" alt="web"/><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,neo4j,sklearn,pandas&theme=dark" alt="data"/><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" alt="tools"/>
-</p>
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python · Java · PHP · C · JavaScript · Solidity |
-| **Frontend** | React · Vite · Bootstrap |
-| **Backend** | Flask · FastAPI · Express.js · Laravel |
-| **ML / Data** | scikit-learn · pandas · NLP (TF-IDF, NLTK) · Data Mining · Power BI · DAX |
-| **Databases** | MongoDB · SQLite · Neo4j |
-| **Blockchain** | Hardhat · OpenZeppelin · ethers.js · MetaMask |
-| **Security** | JWT · Cybersecurity basics |
-| **Tools** | Git · GitHub · VS Code · PyCharm |
+<table>
+  <tr>
+    <td align="center" width="170"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,php,c,js,solidity&theme=dark" alt="languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,express,laravel&theme=dark" alt="backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄 Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" alt="databases"/>
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 ML and Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="48"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="48"/>
+      <img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20NLTK-555555?style=for-the-badge" alt="NLP" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⛓ Blockchain</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" height="48"/>
+      <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" height="48"/>
+      <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge" alt="ethers.js" height="48"/>
+      <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔐 Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="48"/>
+      <img src="https://img.shields.io/badge/Cybersecurity-basics-555555?style=for-the-badge" alt="Cybersecurity basics" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" alt="tools"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
