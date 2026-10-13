@@ -131,6 +131,9 @@ Tamper-proof diplomas on the blockchain. An issuer registers a salted SHA-256 ha
 | 🏨 [hotel-finder-fes](https://github.com/FouadElOuafy/hotel-finder-fes) | Geolocation app for hotels in Fès with routing | Neo4j · Flask · React · OpenStreetMap · OSRM |
 | 🤖 [devmentor-ai](https://github.com/FouadElOuafy/CodeAlpha_ChatbotFAQ) | NLP FAQ chatbot for full-stack learning (TF-IDF, cosine similarity) | Python · FastAPI · React · scikit-learn · NLTK |
 | 📊 [ecommerce-sales-dashboard-powerbi](https://github.com/FouadElOuafy/ecommerce-sales-dashboard-powerbi) | Sales analysis and RFM customer segmentation dashboard (100k+ orders) | Power BI · DAX · Power Query · Data Modeling |
+| 🔎 [internwatch-maroc](https://github.com/FouadElOuafy/internwatch-maroc) | Independent web scraping project for collecting and tracking internship opportunities in Morocco. | Python · Web Scraping · Data Processing |
+| 📡 [stagesonar](https://github.com/FouadElOuafy/stagesonar) | Collaborative project with Youssef Ennagui: automated internship monitoring, duplicate detection, profile-based offer matching, and email notifications through a web application. | Python · FastAPI · React · TypeScript · PostgreSQL · Docker |
+
 
 ---
 
